@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDistinctSlices", "CountDistinctSlices\CountDistinctSlices.csproj", "{77048982-F574-41F1-AD1A-31EF8BAFE569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77048982-F574-41F1-AD1A-31EF8BAFE569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77048982-F574-41F1-AD1A-31EF8BAFE569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77048982-F574-41F1-AD1A-31EF8BAFE569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77048982-F574-41F1-AD1A-31EF8BAFE569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0947EF53-47FB-4DE5-9225-2EB929E6DD2A}
+	EndGlobalSection
+EndGlobal
